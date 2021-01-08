@@ -1,1 +1,1 @@
-# Exerc-cio-pr-tico-em-js
+Exercício prático em js
